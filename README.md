@@ -6,7 +6,8 @@
 
 
  <h2>Sobre mim</h2> 
-Formado em Gestão de Técnologia da Informação e cursando pós em Análise e Desenvolvimento de Sistemas e apaixonado pro tecnologia. Gosto muito do Full-Stack, porém estou focando mais no Back-End.
+Formado em Gestão de Técnologia da Informação e cursando pós em Análise e Desenvolvimento de Sistemas e apaixonado pro tecnologia. Gosto muito do Full-Stack, porém estou focando mais no Back-End.<br>
+Trabalho a mais de 2 anos com informatica na area de Suporte Helpdesk tanto com hardware quanto com software e agora estou entrando na parte de desenvolvimento.
 
 <h2>Redes Sociais</h2>
 
@@ -37,18 +38,6 @@ Formado em Gestão de Técnologia da Informação e cursando pós em Análise e 
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Styled-Component](https://img.shields.io/badge/StyledComponent-000?style=for-the-badge&logo=styledComponents)
-
-
-
-
-
-</div>
-
-<div  align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01VitorHugo&layout=compact&langs_count=7&theme=react)
-
 </div>
  
 <h2>Sistema operacional</h2>
@@ -63,4 +52,4 @@ Formado em Gestão de Técnologia da Informação e cursando pós em Análise e 
 <h2>Conecte-se comigo</h2>
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/01Vitorhugo)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/k2vinn)
